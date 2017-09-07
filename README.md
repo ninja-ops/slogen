@@ -1,0 +1,2 @@
+# slogen
+slogan generator
