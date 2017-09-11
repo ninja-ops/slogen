@@ -48,7 +48,7 @@ if (in_array("--hashtag", $argv)) {
   $chunks = explode(" ", $output);
   for ($i=1;$i<count($chunks);$i++) {
     if (substr($chunks[$i], 0, 1) == strtoupper(substr($chunks[$i], 0, 1))) {
-      $chunks[$i] = "\\#" . $chunks[$i];
+      $chunks[$i] = "#" . $chunks[$i];
     }
   }
   $output = implode(' ', $chunks);
