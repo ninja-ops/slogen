@@ -47,9 +47,8 @@ if (in_array("--twitterlimit", $argv)) {
 if (in_array("--hashtag", $argv)) {
   $chunks = explode(" ", $output);
   for ($i=1;$i<count($chunks);$i++) {
-    echo $i . substr($chunks[$i], 0, 1) . "\n";
     if (substr($chunks[$i], 0, 1) == strtoupper(substr($chunks[$i], 0, 1))) {
-      $chunks[$i] = "#" . $chunks[$i];
+      $chunks[$i] = "\#" . $chunks[$i];
     }
   }
   $output = implode(' ', $chunks);
