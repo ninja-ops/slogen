@@ -23,6 +23,8 @@ Wir modifizieren
 Wir evaluieren
 Wir implementieren
 Wir generieren
+Wir migrieren
+Wir differenzieren
 
 unsere integrativen
 unsere differenzierten
@@ -41,6 +43,9 @@ unsere nachhaltigen
 unsere benchmarkähigen
 unsere effizienten
 unsere hochperformanten
+unsere agilen
+unsere Vertrauten
+unsere investigativen
 
 Optionen,
 Alleinstellungsmerkmale USPs,
@@ -128,6 +133,7 @@ Zielsetzungen
 Zahlenmodelle
 Datenflüsse episch
 Wertschöpfungskette
+Awareness
 
 auszuwerten.
 abzuschöpfen.
@@ -162,4 +168,5 @@ zu skalieren.
 zu perfektionieren.
 zu benchmarken.
 zu cybern.
+zu pitchen
 
