@@ -61,6 +61,7 @@ Visionen,
 Konzeptionen,
 Synergiekomponenten,
 Analysen,
+Hyperkonvergenten Infrastrukturen,
 
 um die Marktdurchdringung
 um das bisherige Standing
@@ -82,6 +83,7 @@ um den Impact
 um die Reichweite
 um den Mehrwert
 um die Zielgruppe
+um die Hyperkonvergenz
 
 der antizyklischen
 der prozessorischen
@@ -123,7 +125,7 @@ Alternativen
 Leistungspotenziale
 Zielsetzungen
 Zahlenmodelle
-Datenflüsse
+Datenflüsse episch
 Wertschöpfungskette
 
 auszuwerten.
@@ -158,3 +160,4 @@ zu überflügeln.
 zu skalieren.
 zu perfektionieren.
 zu benchmarken.
+
