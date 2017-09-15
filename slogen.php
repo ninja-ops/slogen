@@ -38,12 +38,6 @@ foreach($chunks as $chunk) {
 }
 
 $output = implode(' ', $parts);
-if (in_array("--twitterlimit", $argv)) {
-  if (strlen($output) > 140) {
-    $output = "";
-  }
-}
-
 if (in_array("--hashtag", $argv)) {
   $chunks = explode(" ", $output);
   for ($i=1;$i<count($chunks);$i++) {
@@ -52,6 +46,12 @@ if (in_array("--hashtag", $argv)) {
     }
   }
   $output = implode(' ', $chunks);
+}
+
+if (in_array("--twitterlimit", $argv)) {
+  if (strlen($output) > 140) {
+    $output = "";
+  }
 }
 
 echo $output;
